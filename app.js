@@ -35,6 +35,7 @@ let gameseq=[];
                 setTimeout(()=>{
                     document.querySelector("body").style.backgroundColor="white";
                 },120)
+                reset();
                 
             }
         }
